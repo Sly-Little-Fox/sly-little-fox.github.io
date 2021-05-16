@@ -1,0 +1,23 @@
+body {
+  background-color: #151515;
+  color: #f3f3f3;
+  font-family: 'IBM Plex Mono', 'Roboto Mono', system-ui, monospace;
+  text-align: center;
+}
+
+.heading {
+  font-size: 1.5em;
+  font-weight: 400;
+}
+
+.heading>svg {
+  height: 2em;
+  transform: translateY(0.87em);
+  display: inline;
+  padding: 0.2em;
+  margin: 0px;
+}
+
+a {
+  color: #069091;
+}
